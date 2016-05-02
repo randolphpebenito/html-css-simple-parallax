@@ -1,0 +1,7 @@
+*.sw[pon]
+*.pyc
+.venv
+db.sqlite3
+notes.txt
+*.pid
+flower
