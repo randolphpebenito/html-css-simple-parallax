@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;    
+}
+
+h1 {
+    text-align: center;
+    font-size: 575%;
+    color: #4A4444;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 45% 0;
+}
+
+h2 {
+    text-align: center;
+    font-size: 275%;
+    color: #E5E5E5;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 45% 0;
+}
+
+/*----- Start Parallax -----*/
+
+.parallax {
+    background: url("../img/parallax.jpg") repeat fixed 100%;
+//    background: url("http://www.w3newbie.com/wp-content/uploads/parallax-2.jpg") repeat fixed 100%;
+}
+.parallax-inner{
+    padding-top: 10%;
+    padding-bottom: 18%;
+}
+/*----- End Parallax -----*/
